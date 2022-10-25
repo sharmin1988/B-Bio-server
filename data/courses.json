@@ -1,11 +1,12 @@
 [
     {
         "id": 1,
-        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-        "price": 109.95,
-        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-        "category": "men's clothing",
-        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "title": "Introduction to Bioengineering and Biotechnology",
+        "goal": "Learn about the significance of the integration of biology, engineering and medicine in this online course.",
+        "price": 50.96,
+        "description": "Learn about the significance of the integration of biology, engineering and medicine in this course. In this course on bioengineering and biotechnology, you will first understand the properties, roles and interactions of cells to perform bodily functions. Next, you will study various concepts within the field of biotech as well as its current and future applications.",
+        "category": "Biotechnology",
+        "image": "https://img.freepik.com/free-photo/virolog-coducting-experiment-course-coronavirus-pandemic-with-micropipette-chemist-modern-laboratory-doing-research-using-dispenser-during-global-epidemic-with-covid-19_482257-5737.jpg?w=900&t=st=1666667293~exp=1666667893~hmac=c796d33b19472460d971eef00b887c4e2c0e96021a38da1bb230fcd030d5d731",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -13,11 +14,12 @@
     },
     {
         "id": 2,
-        "title": "Mens Casual Premium Slim Fit T-Shirts ",
-        "price": 22.3,
-        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-        "category": "men's clothing",
-        "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "title": "Biotechnology - Cell Biology Techniques",
+        "goal": "Learn cell structures and functions and the various cell biology techniques in biotechnology in this online course.",
+        "price": 80.3,
+        "description": "There are many techniques used in the branch of biology known as Cell Biology and this online Biotechnology course focuses on the analysis and components of cell biology techniques. Discover the definitions of differential centrifugation, immuno-localization studies and apoptosis and broaden your knowledge on the structures, functions and properties of cells in this Cell Biology Techniques in Biotechnology course.",
+        "category": "Biotechnology",
+        "image": "https://img.freepik.com/free-photo/dna-helix-attacked-by-bacteria_1048-2372.jpg?w=740&t=st=1666667806~exp=1666668406~hmac=0ce507ff08dd8160bfc6b7a0ba1dced01118ddfe2414494eecd3b647e8895575",
         "rating": {
             "rate": 4.1,
             "count": 259
@@ -25,11 +27,12 @@
     },
     {
         "id": 3,
-        "title": "Mens Cotton Jacket",
+        "title": "Diploma in Synthetic and Molecular Biology",
+        "goal": "Learn about synthetic and molecular biology with this online course that is part of organic chemistry in biology.",
         "price": 55.99,
-        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-        "category": "men's clothing",
-        "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "description": "Study the different biochemical processes where organic chemistry plays a dominant role. You will learn about synthetic biology, DNA sequencing methods, central dogma and molecular biology, which are all crucial for a career as a chemist, biochemist or a chemical biologist.",
+        "category": "Biotechnology",
+        "image": "https://img.freepik.com/free-photo/red-dna-strand_1048-1489.jpg?w=740&t=st=1666667970~exp=1666668570~hmac=2f9bfb4ded73a7012f5058fbc2be468a0bde7b7f18c356f10fd96b029b0a749a",
         "rating": {
             "rate": 4.7,
             "count": 500
@@ -37,11 +40,12 @@
     },
     {
         "id": 4,
-        "title": "Mens Casual Slim Fit",
+        "title": "Microbiology Laboratory Technician",
+        "goal": "Pursue a career on the cutting edge of science and become an efficient lab technician with this  online course.",
         "price": 15.99,
-        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-        "category": "men's clothing",
-        "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "description": "The role of laboratory technician is crucial to the development of science and the betterment of society. Vital discoveries like vaccines happen through hard work carried out in laboratories and wouldn’t exist without microbiology and the people who pursue it. These people include the careful and meticulous microbiology laboratory technician and this free online course can help you become one to help keep us safe and healthy.",
+        "category": "Microbiology",
+        "image": "https://img.freepik.com/free-photo/scientist-modern-equipped-medical-laboratory-examinining-drug-discovery-with-micropipette-medical-stuff-examining-vaccine-evolution-using-high-tech-technology-researching-treatment-developmen_482257-12815.jpg?w=1060&t=st=1666668252~exp=1666668852~hmac=3abc06d6025c5bcee8d7c6ccdf57a0ffd93653a331ba4148279006d34cd3c2e6",
         "rating": {
             "rate": 2.1,
             "count": 430
@@ -49,11 +53,12 @@
     },
     {
         "id": 5,
-        "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-        "price": 695,
-        "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-        "category": "jewelery",
-        "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "title": "Advanced Diploma in Bioengineering: An Interface between Biology and Medicine",
+        "goal": "Learn about the significance of the integration of biology, engineering and medicine in this online course.",
+        "price": 130.5,
+        "description": "In this online course in bioengineering, you will study the various ways in which engineers and clinicians can collaborate effectively to solve a range of societal problems. You will learn about the concepts of gene cloning and biotechnology. Genetics, developmental biology, evolution and proteomics will also be discussed. Consider the technological advancements that are being made in these fields and analyze how they can be improved upon",
+        "category": "Advanced bioengineering",
+        "image": "https://img.freepik.com/free-photo/nanobots-are-repairing-damaged-dna-3d-illustration_35913-2491.jpg?w=900&t=st=1666668638~exp=1666669238~hmac=72759615d790b8365405194d60d680ef231094dd08005ae199560e529e93b7d4",
         "rating": {
             "rate": 4.6,
             "count": 400
@@ -61,13 +66,14 @@
     },
     {
         "id": 6,
-        "title": "Solid Gold Petite Micropave ",
-        "price": 168,
-        "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-        "category": "jewelery",
-        "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "title": "Introduction to Biomedical Research",
+        "goal": "Develop a clear understanding of the key concepts and principles in biomedical research.",
+        "price": 68,
+        "description": "In this online course you'll learn that biomedical research is a fast-growing and highly-rewarding profession whose aim is to solve critical health challenges. To be a biomedical researcher, you must first understand the key concepts and principles in biomedical research. This course will introduce you to health research, measurement of disease frequency, study designs, clinical trials and the ethical principles in research studies.",
+        "category": "Biomedical",
+        "image": "https://img.freepik.com/free-photo/3d-medical-background-with-virus-cells-dna-strand_1048-8470.jpg?w=826&t=st=1666669398~exp=1666669998~hmac=2278b43b0338c542ba4ca0dbfe20760f78e088ca44d3afba1582843a9fb7a0ba",
         "rating": {
-            "rate": 3.9,
+            "rate": 4.9,
             "count": 70
         }
     }
