@@ -7,10 +7,7 @@
         "description": "Learn about the significance of the integration of biology, engineering and medicine in this course. In this course on bioengineering and biotechnology, you will first understand the properties, roles and interactions of cells to perform bodily functions. Next, you will study various concepts within the field of biotech as well as its current and future applications.",
         "category": "Biotechnology",
         "image": "https://img.freepik.com/free-photo/virolog-coducting-experiment-course-coronavirus-pandemic-with-micropipette-chemist-modern-laboratory-doing-research-using-dispenser-during-global-epidemic-with-covid-19_482257-5737.jpg?w=900&t=st=1666667293~exp=1666667893~hmac=c796d33b19472460d971eef00b887c4e2c0e96021a38da1bb230fcd030d5d731",
-        "rating": {
-            "rate": 3.9,
-            "count": 120
-        }
+        "duration": "6"
     },
     {
         "id": 2,
@@ -20,10 +17,7 @@
         "description": "There are many techniques used in the branch of biology known as Cell Biology and this online Biotechnology course focuses on the analysis and components of cell biology techniques. Discover the definitions of differential centrifugation, immuno-localization studies and apoptosis and broaden your knowledge on the structures, functions and properties of cells in this Cell Biology Techniques in Biotechnology course.",
         "category": "Biotechnology",
         "image": "https://img.freepik.com/free-photo/dna-helix-attacked-by-bacteria_1048-2372.jpg?w=740&t=st=1666667806~exp=1666668406~hmac=0ce507ff08dd8160bfc6b7a0ba1dced01118ddfe2414494eecd3b647e8895575",
-        "rating": {
-            "rate": 4.1,
-            "count": 259
-        }
+        "duration": "3"
     },
     {
         "id": 3,
@@ -33,10 +27,7 @@
         "description": "Study the different biochemical processes where organic chemistry plays a dominant role. You will learn about synthetic biology, DNA sequencing methods, central dogma and molecular biology, which are all crucial for a career as a chemist, biochemist or a chemical biologist.",
         "category": "Biotechnology",
         "image": "https://img.freepik.com/free-photo/red-dna-strand_1048-1489.jpg?w=740&t=st=1666667970~exp=1666668570~hmac=2f9bfb4ded73a7012f5058fbc2be468a0bde7b7f18c356f10fd96b029b0a749a",
-        "rating": {
-            "rate": 4.7,
-            "count": 500
-        }
+        "duration": "12"
     },
     {
         "id": 4,
@@ -46,23 +37,17 @@
         "description": "The role of laboratory technician is crucial to the development of science and the betterment of society. Vital discoveries like vaccines happen through hard work carried out in laboratories and wouldn’t exist without microbiology and the people who pursue it. These people include the careful and meticulous microbiology laboratory technician and this free online course can help you become one to help keep us safe and healthy.",
         "category": "Microbiology",
         "image": "https://img.freepik.com/free-photo/scientist-modern-equipped-medical-laboratory-examinining-drug-discovery-with-micropipette-medical-stuff-examining-vaccine-evolution-using-high-tech-technology-researching-treatment-developmen_482257-12815.jpg?w=1060&t=st=1666668252~exp=1666668852~hmac=3abc06d6025c5bcee8d7c6ccdf57a0ffd93653a331ba4148279006d34cd3c2e6",
-        "rating": {
-            "rate": 2.1,
-            "count": 430
-        }
+        "duration": "18"
     },
     {
         "id": 5,
-        "title": "Advanced Diploma in Bioengineering: An Interface between Biology and Medicine",
+        "title": "Advanced Diploma in Bioengineering",
         "goal": "Learn about the significance of the integration of biology, engineering and medicine in this online course.",
         "price": 130.5,
         "description": "In this online course in bioengineering, you will study the various ways in which engineers and clinicians can collaborate effectively to solve a range of societal problems. You will learn about the concepts of gene cloning and biotechnology. Genetics, developmental biology, evolution and proteomics will also be discussed. Consider the technological advancements that are being made in these fields and analyze how they can be improved upon",
         "category": "Advanced bioengineering",
         "image": "https://img.freepik.com/free-photo/nanobots-are-repairing-damaged-dna-3d-illustration_35913-2491.jpg?w=900&t=st=1666668638~exp=1666669238~hmac=72759615d790b8365405194d60d680ef231094dd08005ae199560e529e93b7d4",
-        "rating": {
-            "rate": 4.6,
-            "count": 400
-        }
+        "duration": "6"
     },
     {
         "id": 6,
@@ -72,9 +57,6 @@
         "description": "In this online course you'll learn that biomedical research is a fast-growing and highly-rewarding profession whose aim is to solve critical health challenges. To be a biomedical researcher, you must first understand the key concepts and principles in biomedical research. This course will introduce you to health research, measurement of disease frequency, study designs, clinical trials and the ethical principles in research studies.",
         "category": "Biomedical",
         "image": "https://img.freepik.com/free-photo/asian-scientists-working-vaccine-creation_1098-18426.jpg?size=626&ext=jpg&ga=GA1.2.1239272833.1664376337&semt=sph",
-        "rating": {
-            "rate": 4.9,
-            "count": 70
-        }
+        "duration": "3"
     }
 ]

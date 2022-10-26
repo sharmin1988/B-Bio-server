@@ -16,6 +16,18 @@ app.get('/courses', (req, res) => {
     res.send(courses)
 })
 
+app.get('/courses/:id',(req, res) => {
+    const id = req.params.id
+    const course = courses.find(cr => cr.id == id)
+    res.send(course)
+})
+
+app.get('/courses/checkout/:id',(req, res) => {
+    const id = req.params.id
+    const course = courses.find(cr => cr.id == id)
+    res.send(course)
+})
+
 
 app.listen(port, () => {
     console.log(`B-bio server is running on port: ${port}`)
